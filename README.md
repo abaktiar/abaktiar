@@ -2,7 +2,7 @@
 
 Welcome to my GitHub repository. Most of my recent projects are private.
 
-[![Al Baktira's GitHub stats](https://github-readme-stats.vercel.app/api?username=abaktiar&show_icons=true&layout=compact&count_private=true)](https://github.com/abaktiar)
+[![Al Baktira's GitHub stats](https://github-readme-stats.vercel.app/api?username=abaktiar&show_icons=true&layout=compact&count_private=true&theme=dark)](https://github.com/abaktiar)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abaktiar&layout=compact&theme=dark)](https://github.com/abaktiar)
 
